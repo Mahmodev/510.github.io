@@ -1,0 +1,145 @@
+Q: What is a primary consequence of thermal gouging by carbon arc or plasma arc if not properly addressed?
+A: Formation of a corrosion-resistant heat-affected zone that does not require further treatment.
+B: Rapid heating followed by quenching to ambient temperature, leading to hardened or brittle heat-affected zones.
+C: Complete removal of all material without any need for further mechanical processing.
+D: Lower temperatures achieved during the gouging process, minimizing heat-affected zones.
+Correct: B
+
+Q: Which of the following steps should be taken after thermal gouging to address the HAZ?
+A: The material should be left to cool naturally to prevent further damage.
+B: The heat-affected zone should be removed by a mechanical process such as grinding.
+C: The material should be reheated to restore its original properties.
+D: The heat-affected zone should be painted to protect it from environmental corrosion.
+Correct: B 
+
+Q: What type of current and voltage is used in the spark tester method for inspecting leaks in nonconductive linings?
+A: High-voltage, high-current
+B: Low-voltage, low-current
+C: High-voltage, low-current
+D: Low-voltage, high-current
+Correct: C 
+
+Q: Why is it important for an engineer to perform a metallurgical review when assessing equipment?
+A: To determine the aesthetic qualities of the equipment.
+B: To ensure the equipment meets design color specifications.
+C: To evaluate factors such as stress corrosion cracking, susceptibility to creep, and high-temperature hydrogen attack.
+D: To decide whether the equipment should be painted.
+Correct: C 
+
+Q: What is the primary purpose of installing sleeves in tubes?
+A: To provide entrance erosion protection for tube ends.
+B: To line a region of tube damage or to restore tubes that have thinned.
+C: To repair cracks in tubes by covering them completely.
+D: To increase the heat transfer efficiency of the tube.
+Correct: B 
+
+Q: Ferrules are typically installed in tubes for what reason?
+A: General tube damage restoration.
+B: To enhance heat transfer across the tube.
+C: Erosion protection of or thermal protection of tube ends.
+D: To prevent external corrosion.
+Correct: C 
+
+Q: Which of the following is NOT a typical use of a sleeve in tube repairs?
+A: To line a region of tube damage.
+B: To restore thinned tubes.
+C: To protect tube ends.
+D: To reinforce the structural integrity of thinned tubes.
+Correct: C 
+
+Q: Which method is more commonly used for entrance erosion protection in tubes?
+A: Weld overlay
+B: Sleeve installation
+C: Ferrule installation
+D: Epoxy coating
+Correct: C 
+
+Q: Which standard outlines the steps for developing a pneumatic test procedure?
+A: ASME B31.3
+B: ASME VIII
+C: ASME PCC-2, Article 501
+D: API 510
+Correct: C
+
+Q: Who is responsible for developing the pneumatic test procedure according to ASME PCC-2?
+A: The inspector
+B: The operator
+C: The engineer
+D: The welder
+Correct: C
+
+Q: According to ASME PCC-2, what should be considered when deciding whether welds may be painted prior to hydrostatic pressure testing?
+A: Whether the paint used could mask a potential leak.
+B: Whether the paint will enhance the pressure retention of the weld.
+C: Whether the paint will increase the weld's resistance to cracking under pressure.
+D: Whether the paint will facilitate the detection of leaks during the test.
+Correct: A 
+
+Q: What is the minimum size requirement for non-postweld heat-treated, butt-welded carbon and low alloy steel insert plates?
+A: The lesser of 12t or 380 mm 15 in.), where t is the thickness of the parent material.
+B: The greater of 12t or 380 mm 15 in.), where t is the thickness of the parent material.
+C: Exactly 15 inches for all thicknesses.
+D: At least 12 times the thickness of the plate, regardless of the parent material.
+Correct: A 
+
+Q: What is a potential limitation of using a on-stream with a lift-assist device to determine valve set pressure on-stream?
+A: It may not provide accurate results compared to traditional testing methods.
+B: It can cause permanent damage to the valve seat.
+C: It may not be accepted by local jurisdictions as a valid method for verifying or adjusting valve set pressures.
+D: It requires disassembling the valve before testing.
+Correct: C 
+Q: What is one of the limitations of GMAW compared to SMAW)?
+A: GMAW equipment is simpler, less costly, and more portable than SMAW equipment.
+B: GMAW equipment is more complex, more costly, and less portable than SMAW equipment.
+C: GMAW does not require any shielding gas, making it more versatile than SMAW.
+D: GMAW produces more slag compared to SMAW.
+Correct: B 
+
+Q: What should be done prior to weld repairs in caustic service to ensure suitability for service?
+A: The welder should select the electrode without any review process.
+B: A corrosion specialist should review the welding plan, including the welding electrode/wire selection and weld procedure. 
+C: The welding process should be carried out immediately to minimize downtime.
+D: The welding plan does not need any specific review for caustic service.
+Correct: B
+
+Q: Why is preheating sometimes required prior to arc gouging certain materials?
+A: To improve the surface finish of the material.
+B: To reduce the need for post-weld heat treatment.
+C: To prevent cracking, particularly in materials that require post-weld heat treatment by the construction code or post-construction code.
+D: To speed up the arc gouging process.
+Correct: C
+
+Q: What is a common cause of damage to strip linings in towers?
+A: Mechanical wear from moving components inside the tower.
+B: Expansion of trapped gases behind the strip liner, causing cracks in plug and attachment welds.
+C: Erosion due to high-velocity fluid flow across the liner surface.
+D: Corrosion from improper material selection.
+Correct: B 
+
+Q: Which NDE method is typically used to detect lack of fusion LOF in welds?
+A: Visual Testing VT)
+B: Magnetic Particle Testing MT)
+C: Ultrasonic Testing UT)
+D: Radiographic Testing RT)
+Correct: C 
+
+Q: How should the area where weld buildup is to be applied be prepared according to repair procedures? Drag and drop #PCC #T2024 
+A: The area should be painted to protect it during the welding process.
+B: The area should be free of any residue, gasket material, corrosion deposits, and cleaned by mechanical or chemical procedures.
+C: The area can be welded over without any preparation if the surface is dry.
+D: Only high-temperature cleaning is required before welding.
+Correct: B 
+
+Q: Which electrodes should be stored in heated holding ovens after removal from the manufacturer's packaging?
+A: Low-hydrogen SMAW electrodes such as E7016 and E8018.
+B: Cellulose-based electrodes such as E6010 and E8010.
+C: Any electrode, regardless of type.
+D: Only electrodes used for non-critical welding operations.
+Correct: A 
+
+Q: For a large vessel with mulcheckle zones of differing corrosion rates, how should inspection intervals be determined?
+A: The entire vessel should be inspected based on the fastest-corroding zone.
+B: Each zone should be inspected based on the interval for that specific zone.
+C: Inspection intervals should only be based on the slowest-corroding zone.
+D: All zones should have the same inspection interval regardless of corrosion rates.
+Correct: B
